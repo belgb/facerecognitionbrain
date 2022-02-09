@@ -2,9 +2,9 @@ import React, { Component } from 'react';
 import ParticlesOptions from './components/Particles/Particles';
 import Navigation from './components/navigation/navigation';
 import FaceRecognition from './components/FaceRecognition/FaceRecognition';
-import Logo from './components/logo/logo'
-import Rank from './components/Rank/rank'
-import ImageLinkForm from './components/ImageLinkForm/ImageLinkForm'
+import Logo from './components/logo/logo';
+import Rank from './components/Rank/rank';
+import ImageLinkForm from './components/ImageLinkForm/ImageLinkForm';
 import './App.css';
 
 class App extends Component {
